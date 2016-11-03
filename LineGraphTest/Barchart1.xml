@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root>
+<Stat> 
+  <Over>1</Over>
+  <Run>2</Run>
+</Stat> 
+<Stat> 
+  <Over>2</Over>
+  <Run>4</Run>
+</Stat> 
+<Stat> 
+  <Over>3</Over>
+  <Run>6</Run>
+</Stat>
+<Stat> 
+  <Over>4</Over>
+  <Run>8</Run>
+</Stat>  
+<Stat> 
+  <Over>5</Over>
+  <Run>10</Run>
+</Stat> 
+</Root>
